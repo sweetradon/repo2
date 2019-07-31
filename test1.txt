@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3E66-8905
+
+ Directory of C:\Users\AHMED KHAN\Desktop\abcd
+
+07/31/2019  11:34 AM    <DIR>          .
+07/31/2019  11:34 AM    <DIR>          ..
+07/31/2019  11:34 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  280,134,938,624 bytes free
